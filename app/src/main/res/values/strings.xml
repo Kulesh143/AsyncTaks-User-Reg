@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UserRegApp</string>
+    <string name="title">User Regestration</string>
+    <string name="btn">Sign Up</string>
+    <string name="idHint">Id</string>
+    <string name="Name">Name</string>
+    <string name="mobile">Mobile No</string>
+    <string name="pw">Password</string>
+</resources>
